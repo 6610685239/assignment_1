@@ -1,7 +1,7 @@
 <div align="center">
 
   # Parunchai Timklip
-  ### 💻 Computer Engineering Student | 🚀 Aspiring Fullstack Developer
+  ### 💻 Computer Engineering Student |  Aspiring Fullstack Developer
   
   <p align="center">
     <a href="mailto:parunchai.timklip@gmail.com">
@@ -15,15 +15,15 @@
 
 ---
 
-### 🧐 About Me
+###  About Me
 I am a passionate Computer Engineering student dedicated to building scalable applications and exploring emerging technologies.
-- 🔭 **Current Focus:** Developing Fullstack Web & Mobile applications and diving into Machine Learning.
-- 🌱 **Learning:** Data Science, eBPF, and Advanced Network Infrastructure.
-- 🎓 **Education:** B.Eng. in Computer Engineering, Thammasat University.
+-  **Current Focus:** Developing Fullstack Web & Mobile applications and diving into Machine Learning.
+-  **Learning:** Data Science, eBPF, and Advanced Network Infrastructure.
+-  **Education:** B.Eng. in Computer Engineering, Thammasat University.
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages**
 <p align="left">
@@ -59,7 +59,7 @@ I am a passionate Computer Engineering student dedicated to building scalable ap
 </p>
 
 ---
-### 🏆 Featured Projects
+###  Featured Projects
 
 #### 🔴 **TUTALK**
 > *Community Platform for Thammasat University Students*
